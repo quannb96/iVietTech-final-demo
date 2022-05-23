@@ -267,39 +267,6 @@ button {
 
 /* ============= END HEADER ============= */
 /* ============= START BANNER ============ */
-/* #carousel_banner .carousel-control-prev {
-  left: 47.75%;
-}
-#carousel_banner .carousel-control-next {
-  right: 47.75%;
-}
-#carousel_banner .carousel-control-next,
-#carousel_banner .carousel-control-prev {
-  opacity: 1;
-  height: 22px;
-  width: 20px;
-  top: 85%;
-}
-#carousel_banner .carousel-control-prev-icon {
-  background-image: url(/img/prev_hover.png);
-  height: 22px;
-  width: 20px;
-}
-#carousel_banner .carousel-control-next-icon {
-  background-image: url(/img/next_hover.png);
-  height: 22px;
-  width: 20px;
-}
-#carousel_banner .carousel-control-prev-icon:hover {
-  background-image: url(/img/prev_banner.png);
-}
-#carousel_banner .carousel-control-next-icon:hover {
-  background-image: url(/img/next_banner.png);
-}
-#slide {
-  clear: both;
-} */
-
 .carousel-control-prev {
   left: 47.75%;
 }
